@@ -1,0 +1,1 @@
+const score = require('../lib/score.js')
